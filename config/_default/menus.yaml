@@ -10,12 +10,21 @@ main:
   - name: Resumé
     url: about/
     weight: 200
-  - name: Posts
-    url: post/
-    weight: 400
+  # - name: Posts
+  #   url: post/
+  #   weight: 400
+  - name: Blog
+    url: blog/
+    weight: 20
+
   - name: Publication
     url: publication
     weight: 30
+
+  - name: Event
+    url: event/
+    weight: 50
+
   - name: Project
     url: project/
-    weight: 50
+    weight: 40
