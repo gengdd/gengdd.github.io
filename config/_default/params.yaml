@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: custom
-  theme_night: custom
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: m
 
 # SEO
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: '算法工程师的博客'
+    twitter: '耿冬冬'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -32,12 +32,14 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
-    show_logo: false
+    align: l
+    show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
-    highlight_active_link: false
+    show_search: false
+    highlight_active_link: true
+
+# Site footer
 
 footer:
   copyright:
@@ -51,42 +53,46 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2006-12-03'
   time_format: '3:04 PM'
+  address_format: zh
 
 # Site features
 
 features:
   syntax_highlighter:
-    enable: true
-    extra_languages:
-      - r
-      - latex
+    theme_light: github-light
+    theme_dark: dracula
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/gengdd/gengdd.github.io'
     content_dir: content
     branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: giscus
     disqus:
       shortname: ''
       show_count: true
     commento:
       url: ''
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: 'gengdd/gengdd.github.io'
+      repo_id: 'R_kgDOI-PZzw'
+      category: 'Q&A'
+      category_id: 'DIC_kwDOI-PZz84CURmq'
+      theme: preferred_color_scheme
+      language_code: zh-CN
+      mapping: title
+      emit-metadata: "1"
+      reactions-enabled: "1"
   search:
-    provider: ''
+    provider: wowchemy
     algolia:
       app_id: ''
       api_key: ''
@@ -95,11 +101,19 @@ features:
   map:
     provider: ''
     api_key: ''
-    zoom: 15
+    zoom: ''
+
+# Extensions
 
 extensions:
   cms:
     branch: main
     local_backend: false
   academicons:
-    enable: false
+    enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
