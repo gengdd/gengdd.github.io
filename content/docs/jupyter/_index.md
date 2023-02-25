@@ -1,4 +1,10 @@
 ---
+linktitle: Chapter 3
+summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
+# weight: 1
+icon: book
+icon_pack: fas
+
 title: Display Jupyter Notebooks with Academic
 subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
@@ -13,8 +19,7 @@ image:
   caption: ''
   focal_point: ''
 
-toc: true
-
+type: book # Do not modify.
 ---
 
 ```python

@@ -1,13 +1,30 @@
 ---
+# Title, summary, and page position.
+linktitle: 💖
+weight: 1
+icon: book
+icon_pack: fas
+
+# Page metadata.
+title: Writing technical content in Markdown
+date: '2018-09-09T00:00:00Z'
+type: book # Do not modify.
+
 title: Writing technical content in Markdown
 date: 2019-07-12
 math: true
+
+# toc: true
+
 image:
   placement: 2
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
 Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
+
+<!-- {{< toc >}} -->
+<!-- {{< toc hide_on="xl" >}} -->
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
 
