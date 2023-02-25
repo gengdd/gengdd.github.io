@@ -19,6 +19,14 @@ cascade:
     commentable: true
     show_related: true
     show_breadcrumb: false
+  
+  - _target:
+      path: /docs/**
+    editable: false
+    reading_time: true
+    commentable: true
+    show_related: true
+    show_breadcrumb: false
 
 ############################
 ## LANGUAGE

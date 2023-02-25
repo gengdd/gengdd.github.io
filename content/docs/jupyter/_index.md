@@ -20,6 +20,11 @@ image:
   focal_point: ''
 
 type: book # Do not modify.
+
+reading_time: true
+commentable: true
+show_related: true
+show_breadcrumb: false
 ---
 
 ```python
