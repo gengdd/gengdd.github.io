@@ -56,6 +56,9 @@ social:
   - icon: zhihu
     icon_pack: fab
     link: https://www.zhihu.com/people/geng-dong-dong-80
+  - icon: bilibili
+    icon_pack: fab
+    link: https://space.bilibili.com/281987043
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/耿冬冬
