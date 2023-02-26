@@ -6,6 +6,8 @@ summary: Learn how to use Wowchemy's docs layout for publishing online courses, 
 icon: book
 icon_pack: fas
 
+draft: true
+
 # Page metadata.
 title: Chapter 1
 date: '2018-09-09T00:00:00Z'

@@ -19,6 +19,8 @@ image:
   caption: ''
   focal_point: ''
 
+draft: true
+
 type: book # Do not modify.
 
 reading_time: true

@@ -6,6 +6,8 @@ summary: Learn how to use Academic's docs layout for publishing online courses, 
 icon: book-reader
 icon_pack: fas
 
+draft: true
+
 # Page metadata.
 title: Chapter 2
 date: '2018-09-09T00:00:00Z'
