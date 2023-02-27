@@ -6,11 +6,11 @@ icon: book
 icon_pack: fas
 type: book
 
-title: "AAAI2023"
+title: "[AAAI2023] 时空数据挖掘方向论文总结"
 subtitle: ""
 summary: "总结了AAAI2023中时空数据挖掘方向的相关论文"
 authors: [admin]
-tags: []
+tags: '论文总结'
 categories: []
 date: 2023-02-27T23:18:19+08:00
 lastmod: 2023-02-27T23:18:19+08:00
