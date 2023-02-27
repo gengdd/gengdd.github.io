@@ -39,7 +39,7 @@ links:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-summary: 总结了ICDE涉及时空数据挖掘方向的相关论文
+summary: 总结了ICDE2023中时空数据挖掘方向的相关论文
 ---
 
 {{% callout note %}}
@@ -51,7 +51,7 @@ summary: 总结了ICDE涉及时空数据挖掘方向的相关论文
 ## 时空数据
 
 1. When Spatio-Temporal Meet Wavelets: Disentangled Traffic Forecasting via Efficient Spectral Graph Attention Networks
-2. Self-Supervised Spatial-Temporal Bottleneck Attentive Network for Efﬁcient Long-term Trafﬁc Forecasting
+2. Self-Supervised Spatial-Temporal Bottleneck Attentive Network for Efficient Long-term Traffic Forecasting
 3. Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting
 4. Extreme-Aware Local-Global Attention for Spatio-Temporal Urban Mobility Learning
 5. PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation
