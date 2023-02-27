@@ -24,7 +24,7 @@ organizations:
     url: https://tc.seu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 时空数据挖掘/机器学习/深度学习
 
 # Interests to show in About widget
 # interests:
