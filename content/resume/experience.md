@@ -34,6 +34,18 @@ experience:
         * 深度学习
         * 机器学习
 
+  - title: 交通大数据与模型
+    company: 深圳市城市交通规划设计研究中心股份有限公司
+    company_url: 'http://www.sutpc.com/'
+    company_logo: ''
+    location: 雄安
+    date_start: '2020-05-01'
+    date_end: '2020-07-01'
+    description: |2-
+        * 数据分析
+        * 交通微观仿真
+        * 交通宏观模型构建
+
   # - title: Professor of Semiconductor Physics
   #   company: University X
   #   company_url: ''

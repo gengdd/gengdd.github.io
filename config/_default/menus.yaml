@@ -24,9 +24,9 @@ main:
     url: event/
     weight: 60
 
-  - name: Resumé
-    url: resume/
-    weight: 200
+  # - name: Resumé
+  #   url: resume/
+  #   weight: 200
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
