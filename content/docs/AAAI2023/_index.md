@@ -73,6 +73,8 @@ projects: []
 28. PDFormer: Propagation Delay-aware Dynamic Long-range Transformer for  Traffic Flow Prediction
 29. Ising-Traffic: Using Ising Machine Learning to Predict Traffic Congestion  under Uncertainty
 30. AirFormer: Predicting Nationwide Air Quality in China with Transformers
+31. Learning Decomposed Spatial Relations for Multi-Variate Time-Series 
+Modeling
 
 ## 轨迹数据
 
