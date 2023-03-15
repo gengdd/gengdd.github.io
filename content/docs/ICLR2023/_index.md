@@ -43,7 +43,7 @@ links:
 projects: []
 summary: 总结了ICLR2023中时序预测方向的相关论文
 ---
-## 接受论文
+## 接收论文
 
 1. [Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting](https://openreview.net/forum?id=vSVLM2j9eie)
 2. [MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting](https://openreview.net/forum?id=zt53IDUR1U)
