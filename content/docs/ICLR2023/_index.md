@@ -9,7 +9,7 @@ type: book
 title: "[ICLR2023] 时序预测方向论文总结"
 subtitle: ""
 summary: ""
-authors: [admin]
+# authors: [admin]
 tags: '论文总结'
 categories: []
 date: 2023-03-14T23:35:08+08:00
@@ -33,7 +33,7 @@ image:
 
 links:
 - name: ICLR2023
-  url: https://iclr.cc/Conferences/2023
+  url: https://openreview.net/group?id=ICLR.cc/2023/Conference
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

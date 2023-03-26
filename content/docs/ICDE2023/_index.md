@@ -8,7 +8,7 @@ type: book
 
 title: "[ICDE2023] 时空数据挖掘方向论文总结"
 subtitle: ""
-authors: [admin]
+# authors: [admin]
 tags: '论文总结'
 categories: []
 date: 2023-02-26T21:02:04+08:00
@@ -41,12 +41,6 @@ links:
 projects: []
 summary: 总结了ICDE2023中时空数据挖掘方向的相关论文
 ---
-
-{{% callout note %}}
-
-本文大致总结了ICDE2023涉及时空相关领域的论文，由于时间有限只是快速浏览与总结，难免遗漏请谅解。
-
-{{% /callout %}}
 
 ## 时空数据
 
